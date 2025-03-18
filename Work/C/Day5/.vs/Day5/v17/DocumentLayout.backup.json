@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Source\\iot-c-2025\\Work\\C\\Day5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE88875-A7E1-4129-ADB2-B70449AB0B6F}|Day5.vcxproj|C:\\Source\\iot-c-2025\\Work\\C\\Day5\\struct6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FE88875-A7E1-4129-ADB2-B70449AB0B6F}|Day5.vcxproj|solutionrelative:struct6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE88875-A7E1-4129-ADB2-B70449AB0B6F}|Day5.vcxproj|C:\\Source\\iot-c-2025\\Work\\C\\Day5\\struct5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FE88875-A7E1-4129-ADB2-B70449AB0B6F}|Day5.vcxproj|solutionrelative:struct5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE88875-A7E1-4129-ADB2-B70449AB0B6F}|Day5.vcxproj|C:\\Source\\iot-c-2025\\Work\\C\\Day5\\struct4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FE88875-A7E1-4129-ADB2-B70449AB0B6F}|Day5.vcxproj|solutionrelative:struct4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE88875-A7E1-4129-ADB2-B70449AB0B6F}|Day5.vcxproj|C:\\Source\\iot-c-2025\\Work\\C\\Day5\\struct3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FE88875-A7E1-4129-ADB2-B70449AB0B6F}|Day5.vcxproj|solutionrelative:struct3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE88875-A7E1-4129-ADB2-B70449AB0B6F}|Day5.vcxproj|C:\\Source\\iot-c-2025\\Work\\C\\Day5\\stArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FE88875-A7E1-4129-ADB2-B70449AB0B6F}|Day5.vcxproj|solutionrelative:stArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE88875-A7E1-4129-ADB2-B70449AB0B6F}|Day5.vcxproj|C:\\Source\\iot-c-2025\\Work\\C\\Day5\\struct2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FE88875-A7E1-4129-ADB2-B70449AB0B6F}|Day5.vcxproj|solutionrelative:struct2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE88875-A7E1-4129-ADB2-B70449AB0B6F}|Day5.vcxproj|C:\\Source\\iot-c-2025\\Work\\C\\Day5\\struct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FE88875-A7E1-4129-ADB2-B70449AB0B6F}|Day5.vcxproj|solutionrelative:struct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE88875-A7E1-4129-ADB2-B70449AB0B6F}|Day5.vcxproj|C:\\Source\\iot-c-2025\\Work\\C\\Day5\\stpointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FE88875-A7E1-4129-ADB2-B70449AB0B6F}|Day5.vcxproj|solutionrelative:stpointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "stArray.c",
+              "DocumentMoniker": "C:\\Source\\iot-c-2025\\Work\\C\\Day5\\stArray.c",
+              "RelativeDocumentMoniker": "stArray.c",
+              "ToolTip": "C:\\Source\\iot-c-2025\\Work\\C\\Day5\\stArray.c",
+              "RelativeToolTip": "stArray.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T07:51:07.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "stpointer.c",
+              "DocumentMoniker": "C:\\Source\\iot-c-2025\\Work\\C\\Day5\\stpointer.c",
+              "RelativeDocumentMoniker": "stpointer.c",
+              "ToolTip": "C:\\Source\\iot-c-2025\\Work\\C\\Day5\\stpointer.c",
+              "RelativeToolTip": "stpointer.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T07:25:42.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "struct6.c",
+              "DocumentMoniker": "C:\\Source\\iot-c-2025\\Work\\C\\Day5\\struct6.c",
+              "RelativeDocumentMoniker": "struct6.c",
+              "ToolTip": "C:\\Source\\iot-c-2025\\Work\\C\\Day5\\struct6.c*",
+              "RelativeToolTip": "struct6.c*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T06:42:18.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "struct5.c",
+              "DocumentMoniker": "C:\\Source\\iot-c-2025\\Work\\C\\Day5\\struct5.c",
+              "RelativeDocumentMoniker": "struct5.c",
+              "ToolTip": "C:\\Source\\iot-c-2025\\Work\\C\\Day5\\struct5.c",
+              "RelativeToolTip": "struct5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T06:15:07.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "struct4.c",
+              "DocumentMoniker": "C:\\Source\\iot-c-2025\\Work\\C\\Day5\\struct4.c",
+              "RelativeDocumentMoniker": "struct4.c",
+              "ToolTip": "C:\\Source\\iot-c-2025\\Work\\C\\Day5\\struct4.c",
+              "RelativeToolTip": "struct4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T06:03:32.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "struct3.c",
+              "DocumentMoniker": "C:\\Source\\iot-c-2025\\Work\\C\\Day5\\struct3.c",
+              "RelativeDocumentMoniker": "struct3.c",
+              "ToolTip": "C:\\Source\\iot-c-2025\\Work\\C\\Day5\\struct3.c",
+              "RelativeToolTip": "struct3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T05:47:04.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "struct2.c",
+              "DocumentMoniker": "C:\\Source\\iot-c-2025\\Work\\C\\Day5\\struct2.c",
+              "RelativeDocumentMoniker": "struct2.c",
+              "ToolTip": "C:\\Source\\iot-c-2025\\Work\\C\\Day5\\struct2.c",
+              "RelativeToolTip": "struct2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T05:16:38.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "struct.c",
+              "DocumentMoniker": "C:\\Source\\iot-c-2025\\Work\\C\\Day5\\struct.c",
+              "RelativeDocumentMoniker": "struct.c",
+              "ToolTip": "C:\\Source\\iot-c-2025\\Work\\C\\Day5\\struct.c",
+              "RelativeToolTip": "struct.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T03:18:47.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
